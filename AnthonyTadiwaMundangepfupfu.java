@@ -10,7 +10,6 @@ public class AnthonyTadiwaMundangepfupfu{
         System.out.println("My initials are:");
         System.out.println("");
         System.out.println("█████████████████████████\n██▀▄─████─▄─▄─███▄─▀█▀─▄█\n██─▀─██████─██████─█▄█─██\n▀▄▄▀▄▄▀▀▀▀▄▄▄▀▀▀▀▄▄▄▀▄▄▄▀");
-        
        
     }
 
