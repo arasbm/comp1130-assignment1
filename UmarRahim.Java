@@ -6,13 +6,12 @@ public class UmarRahim {
         System.out.println("In my free time, i either play games or binge watch anime");
         System.out.println("I also like to swim, gym, and draw when i am feeling inspired.");
         System.out.println("These are my initials:");
-        System.out.println(" ██╗░░░██╗██████╗░ ")
-        System.out.println(" ██║░░░██║██╔══██╗ ")
-        System.out.println(" ██║░░░██║██████╔╝ ")
-        System.out.println(" ██║░░░██║██╔══██╗ ")
-        System.out.println(" ╚██████╔╝██║░░██║ ")
-        System.out.println(" ░╚═════╝░╚═╝░░╚═╝ ")
+        System.out.println(" ██╗░░░██╗██████╗░ ");
+        System.out.println(" ██║░░░██║██╔══██╗ ");
+        System.out.println(" ██║░░░██║██████╔╝ ");
+        System.out.println(" ██║░░░██║██╔══██╗ ");
+        System.out.println(" ╚██████╔╝██║░░██║ ");
+        System.out.println(" ░╚═════╝░╚═╝░░╚═╝ ");
         System.out.println(" ");
-
     }
 }
